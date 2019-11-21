@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.04a31a63.chunk.css",
-    "main.js": "/static/js/main.23805688.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.bbff87a9.js",
-    "static/js/2.ae022d34.chunk.js": "/static/js/2.ae022d34.chunk.js",
-    "index.html": "/index.html",
-    "precache-manifest.bf7a6391c8a0febdcbbb6ebbefe3e3a3.js": "/precache-manifest.bf7a6391c8a0febdcbbb6ebbefe3e3a3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/argentina-elections-2019-5167565079838720-2x.png": "/static/media/argentina-elections-2019-5167565079838720-2x.2104184e.png",
-    "static/media/all.css": "/static/media/fa-solid-900.d6d8d5da.woff2"
+    "main.css": "/React_HW2_UDOT/static/css/main.9742cf02.chunk.css",
+    "main.js": "/React_HW2_UDOT/static/js/main.3707d67f.chunk.js",
+    "runtime-main.js": "/React_HW2_UDOT/static/js/runtime-main.c87e8a4c.js",
+    "static/js/2.fa313378.chunk.js": "/React_HW2_UDOT/static/js/2.fa313378.chunk.js",
+    "index.html": "/React_HW2_UDOT/index.html",
+    "precache-manifest.b6ea5998b548e581bc05250fd9b59463.js": "/React_HW2_UDOT/precache-manifest.b6ea5998b548e581bc05250fd9b59463.js",
+    "service-worker.js": "/React_HW2_UDOT/service-worker.js",
+    "static/media/argentina-elections-2019-5167565079838720-2x.png": "/React_HW2_UDOT/static/media/argentina-elections-2019-5167565079838720-2x.2104184e.png",
+    "static/media/all.css": "/React_HW2_UDOT/static/media/fa-solid-900.d6d8d5da.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbff87a9.js",
-    "static/js/2.ae022d34.chunk.js",
-    "static/css/main.04a31a63.chunk.css",
-    "static/js/main.23805688.chunk.js"
+    "static/js/runtime-main.c87e8a4c.js",
+    "static/js/2.fa313378.chunk.js",
+    "static/css/main.9742cf02.chunk.css",
+    "static/js/main.3707d67f.chunk.js"
   ]
 }
